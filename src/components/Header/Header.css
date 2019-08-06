@@ -1,0 +1,24 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: maroon;
+  margin-bottom: 10px;
+  align-self: center
+}
+
+.title {
+  float: left;
+  font-family: 'Staatliches', cursive;
+}
+
+.scores {
+  float: right;
+  font-family: 'Staatliches', cursive;
+}
+
+.btn-primary {
+  float: right;
+  color: white;
+  background-color: maroon;
+  border-color: white;
+}

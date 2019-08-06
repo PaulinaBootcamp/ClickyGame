@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Rochester",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2Locki6Ga_XCa_lUF8rrYhk1rwi1ZJOHrombHIJTHjjEpxYfAg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "GrandCanyon",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnITdWUChy2g3P1TxwHuHx2SGtiSZjtVa5UIYhsRupPU0vdykyYQ",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Appalachian",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEkfi6_JhD0Zo1hlMJdDQESifK-uQGdpRmDamPSI3q8eYr-7i9w",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Jewell",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3Ro3YcVAMSXwHV6hfJyrouB3jgBCHlGBmScZpaimUiFUj49-pA",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Texas",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXfQXd7LPBzHtMxBkV2Spd8ZBY6_BiN_rX4NmUolDYdNPRThKBA",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Iona",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_IE70t_fxBdQSko2JIqII-aXR_wGklSuX0-SoYMyVz59FOtmYng",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Ohio",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSqrtino7dtMVGBRfdrTc2QqI-p-uLn3QTv-SClDKHLaTrlUktw",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "StonyBrook",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSylWWWXlqV6kNU7a8OWHUtwSdbDILYgbqNKTi3_EUObjKkeN175g",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "SanFran",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUkdL_pIHM-Kz8SzYYXJgp-gS8bCWAQUIQd1dUjTXG27pswYyoA",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Columbia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_Aalb3WKgE4C3-r9hYQktV5NC7zQQKCbWJbrNyEqOAMuh1EIEw",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "USBC",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAFwkXcbDWuzWp_-iNRttH3Nk_oFXgwnhuK00IS70vHSHLN-9kyA",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Canisius",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZfo2Idiz5Q7wiU48c_iS8n1jNuegXEHu_h8u0iMz7-xbu6Ia4bw",
+    "count": 0
+  }
+]
